@@ -29,7 +29,7 @@
     "logo": "https://pbs.twimg.com/profile_images/1346254212951277568/4OmdBpR3_400x400.jpg",
     "color": "#ee4710",
     "uniswap": "https://v2.info.uniswap.org/token/0xaDBEBbd65a041E3AEb474FE9fe6939577eB2544F",
-    "lpToken": "0xe775bad5df325f53278288a41cbc8b32ab2217bc",
+    "lpToken": "0x495f947276749ce646f68ac8c248420045cb7b5e",
     "factory_version": 1,
     "website": "https://chonker.finance/",
     "description": "An experimental gamifying NFT protocol inspired by cats",
@@ -53,8 +53,8 @@
     "factory_version": 2
   },
   {
-    "name": "Block Art",
-    "symbol": "EBA20",
+    "name": "Sason Guy",
+    "symbol": "SASON20",
     "logo": "https://pbs.twimg.com/profile_images/1346925896683429897/c7iEnhk0_400x400.jpg",
     "color": "#cfe1d5",
     "uniswap": "https://v2.info.uniswap.org/pair/0x0f3e73907d11fd528fd8bffd4ed6e7e84465b32a",
